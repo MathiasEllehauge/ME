@@ -1,0 +1,13 @@
+id;project;connector_type;t;delta_t;url;redirect_url;response_size;response_code;success;error
+0;RT;requests;1598094776.273961;-1.019230842590332;https://www.rottentomatoes.com/m/Kate_and_Leopold;https://www.rottentomatoes.com/m/Kate_and_Leopold;470936;200;True;
+1;RT;requests;1598095163.889029;-0.9295780658721924;https://www.rottentomatoes.com/m/Kate_and_Leopold;https://www.rottentomatoes.com/m/Kate_and_Leopold;470867;200;True;
+2;RT;requests;1598095342.38096;-0.7995209693908691;https://www.rottentomatoes.com/m/Kate_and_Leopold;https://www.rottentomatoes.com/m/Kate_and_Leopold;470867;200;True;
+3;RT;requests;1598095349.736004;-0.07339191436767578;https://www.rottentomatoes.com/m/Kate_and_Leopold;https://www.rottentomatoes.com/m/Kate_and_Leopold;471885;200;True;
+4;RT;requests;1598095360.043499;-0.0395359992980957;https://www.rottentomatoes.com/m/Kate_and_Leopold;https://www.rottentomatoes.com/m/Kate_and_Leopold;470867;200;True;
+5;RT;requests;1598095364.015851;-0.03690505027770996;https://www.rottentomatoes.com/m/Kate_and_Leopold;https://www.rottentomatoes.com/m/Kate_and_Leopold;470867;200;True;
+6;RT;requests;1598095515.866556;-0.9460070133209229;https://www.rottentomatoes.com/m/Kate_and_Leopold;https://www.rottentomatoes.com/m/Kate_and_Leopold;470900;200;True;
+7;RT;requests;1598095529.699271;-0.03325986862182617;https://www.rottentomatoes.com/m/Kate_and_Leopold;https://www.rottentomatoes.com/m/Kate_and_Leopold;470900;200;True;
+8;RT;requests;1598095540.745816;-0.03208613395690918;https://www.rottentomatoes.com/m/Kate_and_Leopold;https://www.rottentomatoes.com/m/Kate_and_Leopold;470900;200;True;
+9;RT;requests;1598095634.290498;-0.03706812858581543;https://www.rottentomatoes.com/m/Kate_and_Leopold;https://www.rottentomatoes.com/m/Kate_and_Leopold;470900;200;True;
+10;RT;requests;1598095637.979886;-0.09349393844604492;https://www.rottentomatoes.com/m/Kate_and_Leopold;https://www.rottentomatoes.com/m/Kate_and_Leopold;470897;200;True;
+11;RT;requests;1598095828.814636;-1.0045130252838135;https://www.rottentomatoes.com/m/Kate_and_Leopold;https://www.rottentomatoes.com/m/Kate_and_Leopold;470897;200;True;
